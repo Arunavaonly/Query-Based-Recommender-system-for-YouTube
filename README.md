@@ -20,7 +20,6 @@ Built for academic research, this project addresses challenges such as misinform
 1. **Clickbait Filtering Module**  
    - **Text Classification**: NLP model to detect sensational titles/descriptions.  
    - **Image Classification**: CNN-based analysis of thumbnails.  
-   - **Thumbnail-Caption Disparity**: Quantifies mismatches between visuals and text.  
 2. **Candidate Generation**  
    - Fetches 50 candidate videos using the YouTube Data API.  
 3. **Weightage-Based Ranking Algorithm**  
@@ -30,9 +29,3 @@ Built for academic research, this project addresses challenges such as misinform
    - Outputs refined, diverse, and trustworthy video suggestions.  
 
 ---
-
-## 🛠️ Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/youtube-recommendation-system.git  
-   cd youtube-recommendation-system  
